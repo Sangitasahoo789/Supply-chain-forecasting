@@ -1,0 +1,4 @@
+,WMAPE,MAE,RMSE,Bias%
+Seasonal-naive (lag 7),0.2692,12.7738,18.2602,-3.5727
+Moving average (28d),0.2078,9.8587,14.7153,-6.1342
+Gradient Boosting,0.1674,7.9415,11.6218,-0.1322
