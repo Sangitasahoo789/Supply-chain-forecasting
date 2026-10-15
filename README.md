@@ -112,6 +112,3 @@ Python, pandas, NumPy, scikit-learn (HistGradientBoostingRegressor), Matplotlib.
 
 ---
 
-## Author
-
-**Jozeph Kierkegaard**. 
